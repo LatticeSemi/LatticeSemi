@@ -1,4 +1,7 @@
-<a href="https://github.com/LatticeSemi/u-boot-lattice"> u-boot-lattice </a>
+<ul>
+  <li><a href="https://github.com/LatticeSemi/u-boot-lattice"> u-boot-lattice </a></li>
+  <li><a href="https://github.com/LatticeSemi/Human-Presence-Detection">Human-Presence-Detection </a></li>
+</ul>
 <!--
 **LatticeSemi/LatticeSemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
