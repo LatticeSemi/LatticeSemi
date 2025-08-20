@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<a href="https://github.com/LatticeSemi/u-boot-lattice"> u-boot-lattice </a?
 <!--
 **LatticeSemi/LatticeSemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
